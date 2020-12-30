@@ -1,4 +1,4 @@
-<h1 align="center"> SCAN QRCODE APP - Em construção ⚒️ </h1>
+<h1 align="center"> SCAN QRCODE APP </h1>
 
 Aplicativo criado no intuito para ajudar pessoas a scanear QRcode e saber o que eles trazem.
 
