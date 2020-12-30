@@ -2,6 +2,8 @@ import React from 'react';
 import { createStackNavigator} from '@react-navigation/stack';
 import {NavigationContainer} from '@react-navigation/native';
 import Home from '../pages/Home';
+import ShowResult from '../pages/ShowResult';
+
 
 
 const { Navigator, Screen } = createStackNavigator();
@@ -12,6 +14,8 @@ function AppStack(){
     <NavigationContainer>
        <Navigator screenOptions={{ headerShown: false }}>
         <Screen  name="Home" component={Home}/>
+        <Screen  name="ShowResult" component={ShowResult}/>
+
        </Navigator>
     </NavigationContainer>
   )

@@ -30,9 +30,7 @@ function Home() {
       const { type, data } = scanningResult;
    
         setScanned(true);
-        // navigation.navigate("ShowResult", { dados: data });
-      console.log(data);
-      
+         navigation.navigate("ShowResult", { dados: data });
     }
   }
 
@@ -54,9 +52,9 @@ function Home() {
     >
 
 
-        <BarcodeMask edgeColor="#62B1F6" showAnimatedLine />
+        <BarcodeMask edgeColor="#fff" showAnimatedLine />
     </BarCodeScanner>
-    {scanned && <Button title={'Clique aqui para scanear novamente'}  onPress={() => setScanned(false)} />}
+    {scanned && <Button title={'Clique aqui para escanear novamente'}  onPress={() => setScanned(false)} />}
 </SafeAreaView>
   )
 
