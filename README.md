@@ -6,6 +6,12 @@ Aplicativo criado no intuito para ajudar pessoas a scanear QRcode e saber o que 
   <img alt="Linkedin" src="https://img.shields.io/github/followers/mateusamarall?style=social" />
 </p>
 
+##IMAGENS
+
+APP  EM AÇÃO
+:-------------------------:
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/37390930/115961655-b83ad580-a4ed-11eb-956a-90ce9e707f1c.gif)
+
 ## 🎯 Começando...
 
 faça um clone deste projeto
@@ -24,6 +30,9 @@ yarn start
 (gratuito) em seu celular e scanear QRcode que vai aparecer.</p>
 
 
+
+
+
 ## Construido com
 
 - [REACT-NATIVE](https://reactnative.dev/)
@@ -32,9 +41,6 @@ yarn start
 
 
 
-## Author
-
-👤 **Mateus Amaral**
-
-Github: [@mateusAmaral](https://github.com/mateusamarall) <br/>
-LinkedIn: [@mateusAmaral](https://www.linkedin.com/in/mateus-passos-amaral/)
+<h5> Quer entrar em contato para alguma oportunidade? aqui está meu linkedin e meu e-mail.</h5>
+- Linkedin: https://www.linkedin.com/in/mateus-passos-amaral/ <br/>
+- Email:  mateus.amaral018@gmail.com
