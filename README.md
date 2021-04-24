@@ -6,7 +6,7 @@ Aplicativo criado no intuito para ajudar pessoas a scanear QRcode e saber o que 
   <img alt="Linkedin" src="https://img.shields.io/github/followers/mateusamarall?style=social" />
 </p>
 
-##IMAGENS
+## IMAGENS
 
 APP  EM AÇÃO
 :-------------------------:
