@@ -2,9 +2,6 @@
 
 Aplicativo criado no intuito para ajudar pessoas a scanear QRcode e saber o que eles trazem.
 
-<p>
-  <img alt="Linkedin" src="https://img.shields.io/github/followers/mateusamarall?style=social" />
-</p>
 
 ## Novas Features
 
