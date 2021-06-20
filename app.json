@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "scan-qrcode-app",
-    "slug": "scan-qrcode-app",
+    "name": "Leitor de QRCode",
+    "slug": "leitor-de-qrcode",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,14 +20,15 @@
       "supportsTablet": true
     },
     "android": {
-      "permissions":["CAMERA"],
+      "permissions": [
+        "CAMERA"
+      ],
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      },
+
+      "package": "com.omateusamaral.leitordeqrcode"
     }
   }
 }

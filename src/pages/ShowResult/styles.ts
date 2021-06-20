@@ -4,7 +4,8 @@ const styles = StyleSheet.create({
 
   container: {
     flex: 1,
-    padding: 50
+    backgroundColor:'#FFF',
+    padding: 50,
   },
   container_icon: {
     paddingHorizontal: 5,
