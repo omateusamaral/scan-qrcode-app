@@ -13,7 +13,6 @@ function Home() {
   const [loading, setLoading] = useState<boolean>(false);
   const [hasPermission, setHasPermission] = useState<boolean | null>(null);
   const [scanned, setScanned] = useState(false);
-  const [refreshPage,setRefreshPage] = useState("");
   const navigation = useNavigation();
 
 
