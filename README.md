@@ -17,9 +17,9 @@ Agora ficou mais simples o código para pedir acesso a câmera e botão de loadi
 
 ## Instalção
 
-```bash 
+## Link do app na play store:
 https://play.google.com/store/apps/details?id=com.omateusamaral.leitordeqrcode
-```
+
 
 ## IMAGENS
 
